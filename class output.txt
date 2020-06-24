@@ -1,0 +1,5 @@
+Anger	28886	
+Joy	5200	
+Suprise	4744	
+Love	3828	
+Sad	2710	
